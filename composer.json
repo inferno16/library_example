@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require": {
+    "php": "^7.3",
+    "ext-simplexml": "*",
+    "ext-pdo": "*"
+  }
+}
